@@ -9,7 +9,7 @@
   <h3 align="center">Pig Game</h3>
 
   <p align="center">
-    A two player game where users try and get the highest dice score.
+    A two player game where players try and get the highest dice score.
     <br />
     <a href="https://sososammy.github.io/pig-game"><strong>View Demo »</strong></a>
   </p>
